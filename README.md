@@ -11,7 +11,7 @@ Informe a Instrumentation Key no arquivo ApplicationInsights.config e na view _L
 Testando os recursos
 --------------------
 
-Para gerar valores de visualizações de usuários e páginas, navegue nas seguintes páginas:
+Para gerar valores de visualizações de usuários, sessão, páginas e entre outras métricas de navegação, acesse as seguintes páginas:
 
  - Home/Index 
  - Home/About
