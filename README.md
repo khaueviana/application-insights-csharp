@@ -5,7 +5,7 @@ Example C # .NET using the application monitoring Azure resource.
 Configuration
 ------------
 
-Inform the Instrumentation Key in ApplicationInsights.config file and view _Layout.cshtml
+Inform the Instrumentation Key in ApplicationInsights.config file and view _Layout.cshtml.
 
 Testing the resources
 --------------------
