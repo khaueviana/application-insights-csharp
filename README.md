@@ -1,30 +1,29 @@
-Application Insights - CSharp
-=============================
+# application-insights-csharp
 
-Exemplo em C#.NET de utilização do recurso do Azure de monitoramento de aplicações.
+Example C # .NET using the application monitoring Azure resource.
 
-Configuração
+Configuration
 ------------
 
-Informe a Instrumentation Key no arquivo ApplicationInsights.config e na view _Layout.cshtml
+Inform the Instrumentation Key in ApplicationInsights.config file and view _Layout.cshtml
 
-Testando os recursos
+Testing the resources
 --------------------
 
-Para gerar valores de visualizações de usuários, sessão, páginas e entre outras métricas de navegação, acesse as seguintes páginas:
+To generate views values of users, session, pages and navigation among other metrics , visit the following pages:
 
  - Home/Index 
  - Home/About
 
-Para testar o recurso de eventos e métricas, utilize a seguinte URL:
+To test the event and resource metrics , use the following URL:
 
  - Home/TrackEvent?eventName=EventName
 
-Para lançar uma exception:
+To throw an exception:
 
  - Home/ThrowException
 
-Referências
+References
 ------------
 
 https://azure.microsoft.com/en-us/documentation/articles/app-insights-overview/
